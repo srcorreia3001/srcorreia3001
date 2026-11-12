@@ -16,7 +16,7 @@
 ## 👨‍💻 Sobre Mim
 
 - 🎓 Graduando em **Ciência de Dados** pela **Unisanta** (Universidade Santa Cecília).
-- 🎓 Graduando em **Tecnologia da Informação** pela **UNIVESP**. (Universidade Virtual do Estado de São Paulo)
+- 🎓 Graduando em **Tecnologia da Informação** pela **UNIVESP** (Universidade Virtual do Estado de São Paulo).
 - 📊 Especializado no desenvolvimento de projetos de **Análise Exploratória de Dados (EDA)**, **Modelagem Preditiva** e **Visualização de Dados**.
 - 🌐 Blog & Portfólio oficial: **[tiagodata.com.br](https://www.tiagodata.com.br/)**
 - 🚀 Atualmente trabalhando em **projetos práticos de Ciência de Dados e Machine Learning** em Python.
@@ -60,16 +60,13 @@
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srcorreia3001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcorreia3001&layout=compact&theme=tokyonight&langs_count=7&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=srcorreia3001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcorreia3001&layout=compact&theme=tokyonight&langs_count=7&hide_border=false" />
 </div>
 
-<!-- (Opcional) Se quiser adicionar o card de ofensiva (Streak), basta descomentar a linha abaixo: -->
-<!-- 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/streak-stats/?username=srcorreia3001&theme=tokyonight" />
+<div align="center" style="margin-top: 10px;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/streak-stats/?username=srcorreia3001&theme=tokyonight&hide_border=false" />
 </div>
--->
 
 <br />
 
@@ -91,5 +88,5 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=007ACC&style=flat-square&label=Visitas+ao+Perfil" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=srcorreia3001&color=007ACC&style=flat-square&label=Visitas+ao+Perfil" alt="Contador de visitas" />
 </div>
