@@ -60,9 +60,16 @@
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srcorreia3001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcorreia3001&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srcorreia3001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcorreia3001&layout=compact&theme=tokyonight&langs_count=7&hide_border=false" />
 </div>
+
+<!-- (Opcional) Se quiser adicionar o card de ofensiva (Streak), basta descomentar a linha abaixo: -->
+<!-- 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/streak-stats/?username=srcorreia3001&theme=tokyonight" />
+</div>
+-->
 
 <br />
 
