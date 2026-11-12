@@ -56,19 +56,25 @@
 
 <br />
 
+<!-- PAINEL PROFISSIONAL DE HABILIDADES & FOCO (Substituto Estável dos Cards) -->
+## 📊 Foco Técnico & Stack Principal
 
-
-<!-- ESTATÍSTICAS DO GITHUB -->
-## 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=srcorreia3001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&cache=1" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcorreia3001&layout=compact&theme=tokyonight&langs_count=7&hide_border=false&cache=1" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/streak-stats/?username=srcorreia3001&theme=tokyonight&hide_border=false&cache=1" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>🐍 Python & Ecossistema</b><br>
+      <sub>Manipulação de dados, automações e scripts eficientes com Pandas e NumPy.</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>🤖 Machine Learning</b><br>
+      <sub>Construção de modelos preditivos e regressões com Scikit-Learn.</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>📈 Business Intelligence</b><br>
+      <sub>Dashboards analíticos de alto impacto com Power BI e DAX.</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
