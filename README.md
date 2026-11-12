@@ -56,16 +56,18 @@
 
 <br />
 
+
+
 <!-- ESTATÍSTICAS DO GITHUB -->
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=srcorreia3001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcorreia3001&layout=compact&theme=tokyonight&langs_count=7&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=srcorreia3001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&cache=1" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcorreia3001&layout=compact&theme=tokyonight&langs_count=7&hide_border=false&cache=1" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/streak-stats/?username=srcorreia3001&theme=tokyonight&hide_border=false" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/streak-stats/?username=srcorreia3001&theme=tokyonight&hide_border=false&cache=1" />
 </div>
 
 <br />
